@@ -1,0 +1,82 @@
+input{
+	color: orangered;
+}
+
+body{
+	background-color: white;
+}
+
+#heading{
+	font-size: 20px;
+	font-family: Garamond;
+	color: orangered;
+	position: absolute;   
+    height: auto; width: 500px;    
+    left: 100px; top: 10px;
+}
+
+#katalogAussehen{
+	font-size: 15px;
+	font-family: Garamond;
+}
+
+#playerNameStyle{
+	font-size: 20px;
+	font-family: Garamond;
+}
+
+#catalogsStyle{ /*Position und Farbe des Catalog Schriftzugs*/
+	font-size: 10px;
+	font-family: Garamond;
+	color: orangered;
+	
+	position: absolute;   
+    height: auto; width: 100px;    
+    left: 20px; top: 10px;
+}
+
+#catalogs{ position: absolute;   /*Rahmen*/
+       height: 250px; width: 400px;    
+       left: 1450px; top: 200px; 
+	   border: 2px solid orangered;
+}
+
+#highscoreStyle{ /*Position und Farbe des Highscore Schriftzugs*/
+	font-size: 10px;
+	font-family: Garamond;
+	color: orangered;
+	position: absolute;   
+    height: auto; width: 100px;    
+    left: 20px; top: 10px; 
+}
+
+#highscore{
+	position: absolute;   
+    height: 250px; width: 400px;    
+    left: 1450px; top: 500px; 
+	border: 2px solid orangered;
+}
+
+#slogan{
+	font-size: 10px;
+	font-family: Garamond;
+	color: orangered;
+	position: absolute;   
+    height: auto; width: 500px;    
+    left: 100px; top: 80px;
+}
+
+#mainStyle{
+	position: absolute;   
+    height: 600px; width: 1200px;    
+    left: 20px; top: 10px; 
+}
+
+#main{ 
+	position: absolute;   
+    height: 600px; width: 1200px;    
+    left: 100px; top: 200px; 
+	border: 2px solid orangered;
+}
+
+
